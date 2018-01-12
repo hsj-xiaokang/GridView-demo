@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="line">#FF4081</color>
+    <color name="griditems_bg">#ff2</color>
+    <color name="commo_text_color">#222</color>
+    <color name="commo_text_color_whit">#fff</color>
+</resources>
